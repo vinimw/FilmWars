@@ -39,7 +39,7 @@ A página inicial terá uma listagem de filmes da saga Star Wars, onde cada film
 
 No caso de um dos cards ser clicado, o usuário será levado para a página de detalhe de um filme, conforme o id selecionado.
 
-![home](https://github.com/vinimw/FilmWars/blob/main/images/home-sketch.png?raw=true)
+![home](https://github.com/vinimw/FilmWars/blob/main/images/home.png?raw=true)
 
 ### Detalhe de um filme
 
@@ -56,7 +56,7 @@ Além disso será mostrado a lista de personagens que fazem parte do filme selec
 
 Ao clicar para ver mais sobre aquele personagem, o usuário será levado para a página de detalhe de um personagem.
 
-![movie-detail](https://github.com/vinimw/FilmWars/blob/main/images/movie-detail-sketch.png?raw=true)
+![movie-detail](https://github.com/vinimw/FilmWars/blob/main/images/movie-detail.png?raw=true)
 
 
 ### Detalhe de um personagem
